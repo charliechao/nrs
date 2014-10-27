@@ -1,0 +1,41 @@
+/* line 5, scss/custom.scss */
+.navbar-header > a {
+  margin-top: -13px;
+}
+
+/* line 10, scss/custom.scss */
+h2, h3 {
+  color: #e53b51;
+}
+
+/* line 14, scss/custom.scss */
+div.row.text-center {
+  color: white;
+  height: 150px;
+  background-color: #e53b51;
+}
+/* line 15, scss/custom.scss */
+div.row.text-center h2 {
+  color: white;
+}
+/* line 22, scss/custom.scss */
+div.row.text-center p {
+  font-size: 20px;
+}
+
+/* line 27, scss/custom.scss */
+.footer {
+  color: white;
+}
+/* line 29, scss/custom.scss */
+.footer h2, .footer h3 {
+  color: white;
+}
+/* line 32, scss/custom.scss */
+.footer .r1 {
+  background-color: #cd3548;
+}
+/* line 35, scss/custom.scss */
+.footer .r2 {
+  background-color: #e53b51;
+}

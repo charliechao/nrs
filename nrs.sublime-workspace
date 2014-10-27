@@ -1,0 +1,542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"colorbox"
+			],
+			[
+				"tele",
+				"telegrama_raw"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"my",
+				"myFunction"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 3360,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/scss/custom.scss",
+			"settings":
+			{
+				"buffer_size": 423,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/staff.php",
+			"settings":
+			{
+				"buffer_size": 539,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/freelance/nrs/includes/projects.php",
+		"/C/xampp/htdocs/freelance/nrs/includes/causes.php",
+		"/C/xampp/htdocs/freelance/nrs/includes/featurednews.php",
+		"/C/xampp/htdocs/freelance/nrs/includes/footer.php",
+		"/C/xampp/htdocs/freelance/nrs/includes/staff.php",
+		"/C/xampp/htdocs/freelance/nrs/css/scss/cutom.scss",
+		"/C/xampp/htdocs/freelance/nrs/includes/carousel.php",
+		"/C/xampp/htdocs/laravelapp/app/config/database.php",
+		"/C/xampp/htdocs/laravelapp/app/routes.php",
+		"/C/xampp/htdocs/laravelapp/app/config/compile.php",
+		"/C/xampp/htdocs/laravelapp/app/views/hello.php",
+		"/C/xampp/htdocs/laravelapp/app/filters.php",
+		"/C/xampp/htdocs/laravelapp/bootstrap/start.php",
+		"/C/xampp/htdocs/laravelapp/bootstrap/autoload.php",
+		"/C/xampp/htdocs/freelance/nrs/index.php",
+		"/C/xampp/htdocs/freelance/nrs/includes/nav.php",
+		"/C/xampp/htdocs/freelance/nrs/css/custom.css",
+		"/C/xampp/htdocs/portfolio/index.php",
+		"/C/xampp/htdocs/freelance/nrs/nrs.sublime-workspace",
+		"/C/Documents and Settings/user/Desktop/freelance/nrs/index.html",
+		"/C/Documents and Settings/user/Desktop/freelance/nrs/css/scss/cutom.scss",
+		"/C/Documents and Settings/user/Desktop/freelance/nrs/css/cutom.css",
+		"/C/Documents and Settings/user/Desktop/freelance/nrs/css/main.css",
+		"/C/Documents and Settings/user/Desktop/bootstrap/SmallBusinessWebDeveloper/index.html",
+		"/C/Documents and Settings/user/Desktop/bootstrap/SmallBusinessWebDeveloper/css/stylish-portfolio.scss",
+		"/C/Documents and Settings/user/Desktop/bootstrap/SmallBusinessWebDeveloper/css/stylish-portfolio.css",
+		"/C/Documents and Settings/user/Desktop/job-test/js/custom.js",
+		"/C/Documents and Settings/user/Desktop/job-test/css/custom.scss",
+		"/C/Documents and Settings/user/Desktop/job-test/home.html",
+		"/C/Documents and Settings/user/Desktop/job-test-assets/colorbox/example1/index.html",
+		"/C/Documents and Settings/user/Desktop/job-test-assets/colorbox/jquery.colorbox.js",
+		"/C/Documents and Settings/user/Desktop/job-test/README.md",
+		"/C/Documents and Settings/user/Desktop/job-test-assets/colorbox/example4/index.html",
+		"/C/Documents and Settings/user/Desktop/job-test-assets/colorbox/example1/colorbox.css",
+		"/C/Documents and Settings/user/Desktop/job-test-assets/colorbox/example2/index.html",
+		"/C/Documents and Settings/user/Desktop/job-test/css/custome.scss",
+		"/C/Documents and Settings/user/Desktop/USB_Driver_P500.7z",
+		"/C/xampp/htdocs/portfolio/works/movie/index.php",
+		"/C/xampp/htdocs/portfolio/works/movie/includes/navbar.php",
+		"/C/xampp/htdocs/portfolio/works/movie/includes/header.php",
+		"/C/Documents and Settings/user/Desktop/Yoobee/YooBee/ajax/index.html",
+		"/C/Documents and Settings/user/Desktop/Yoobee/YooBee/ajax/staticpage/index.html",
+		"/C/Documents and Settings/user/Desktop/Yoobee/YooBee/ajax/myphpscript.php",
+		"/C/Documents and Settings/user/Desktop/Yoobee/YooBee/php/active_menu_date.php/index.php",
+		"/C/Documents and Settings/user/Desktop/JS/angular/index.html",
+		"/C/Documents and Settings/user/Desktop/shift-bold.woff",
+		"/C/xampp/htdocs/portfolio/includes/aboutme.php",
+		"/C/xampp/htdocs/portfolio_before_anna/includes/aboutme.php",
+		"/C/Documents and Settings/user/Desktop/JS/angular/app.js",
+		"/C/Documents and Settings/user/Desktop/rockfm-master/css/main.css",
+		"/C/Documents and Settings/user/Desktop/JS/angular/angular.js",
+		"/C/Documents and Settings/user/Desktop/JS/jquery/index.html",
+		"/C/xampp/htdocs/portfolio/includes/landingpage.php",
+		"/C/xampp/htdocs/portfolio/includes/head.php",
+		"/C/xampp/htdocs/portfolio/css/scss/custom.scss",
+		"/C/xampp/htdocs/portfolio/includes/works.php",
+		"/C/xampp/htdocs/portfolio/includes/contactform.php",
+		"/C/xampp/htdocs/portfolio/includes/apimap.php",
+		"/C/xampp/htdocs/portfolio/includes/nav.php",
+		"/C/xampp/htdocs/portfolio/includes/scriptswithanalytics.php",
+		"/C/xampp/htdocs/bitnami.css",
+		"/C/xampp/htdocs/portfolio/includes/skills.php",
+		"/C/Documents and Settings/user/Desktop/JS/cookie.html",
+		"/C/Documents and Settings/user/Desktop/JS/dropdownmenu.html",
+		"/C/Documents and Settings/user/Desktop/JS/node.js",
+		"/C/Documents and Settings/user/Desktop/JS/button.html",
+		"/C/Documents and Settings/user/Desktop/JS/browserdetect.html",
+		"/C/xampp/htdocs/portfolio/css/custom.css",
+		"/C/Documents and Settings/user/Application Data/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/C/Documents and Settings/user/Application Data/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Documents and Settings/user/Desktop/Yoobee/plugin/flip.html",
+		"/C/Documents and Settings/user/Desktop/flip.html",
+		"/C/Documents and Settings/user/Application Data/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/portfolio1/css/custom.css",
+		"/C/xampp/htdocs/portfolio1/css/scss/custom.scss",
+		"/C/xampp/htdocs/portfolio/css/bootstrap/bootstrap.min.css",
+		"/C/xampp/htdocs/portfolio/js/bootstrap/bootstrap.min.js",
+		"/C/xampp/htdocs/portfolio/js/bootstrap/bootstrap.js",
+		"/C/xampp/htdocs/portfolio/js/plugins.js",
+		"/C/xampp/htdocs/portfolio/js/mapapi.min.js",
+		"/C/xampp/htdocs/portfolio/js/mapapi.js",
+		"/C/xampp/htdocs/portfolio/includes/mapapijs.php",
+		"/C/xampp/htdocs/portfolio/includes/footer.php",
+		"/C/xampp/htdocs/portfolio/css/bootstrap/bootstrap.css",
+		"/C/xampp/htdocs/portfolio/includes/formcheck.php",
+		"/C/xampp/htdocs/portfolio/js/vendor/fittext.js",
+		"/C/xampp/htdocs/portfolio/works/brand/index.html",
+		"/C/xampp/htdocs/portfolio/works/brand/css/foundation.css",
+		"/C/xampp/htdocs/portfolio/works/game/index.html",
+		"/C/xampp/htdocs/portfolio/works/code/index.html",
+		"/C/xampp/htdocs/portfolio/css/bootstrap/bootstrap-theme.css",
+		"/C/xampp/htdocs/portfolio/works/movie/css/scss/custom.scss",
+		"/C/xampp/htdocs/portfolio/works/movie/css/custom.css",
+		"/C/Documents and Settings/user/Desktop/mobile/index.html",
+		"/C/Documents and Settings/user/Desktop/mobile/css/custom.css",
+		"/C/Documents and Settings/user/Desktop/Yoobee/porforlio/index.html",
+		"/C/Documents and Settings/user/Desktop/Yoobee/BrandGuideLines/css/scss/foundation.scss",
+		"/C/Documents and Settings/user/Desktop/Yoobee/porforlio/css/style.css",
+		"/C/Documents and Settings/user/Desktop/Yoobee/BrandGuideLines/css/foundation.min.css",
+		"/C/Documents and Settings/user/Desktop/Yoobee/BrandGuideLines/css/foundation.css",
+		"/C/Documents and Settings/user/Desktop/Yoobee/BrandGuideLines/index.html",
+		"/C/Documents and Settings/user/Desktop/gocharlie/index.html",
+		"/C/Documents and Settings/user/Desktop/gocharlie/css/custom.css",
+		"/C/Documents and Settings/user/Desktop/Yoobee/bootstrap/index.html",
+		"/C/Documents and Settings/user/Desktop/gocharlie/css/freelancer.css",
+		"/C/Documents and Settings/user/Desktop/gocharlie/js/freelancer.js",
+		"/C/Documents and Settings/user/Desktop/gocharlie/less/freelancer.less",
+		"/C/Documents and Settings/user/Desktop/gocharlie/less/mixins.less",
+		"/C/Documents and Settings/user/Desktop/Yoobee/codewars/index.html",
+		"/F/YooBee/BrandGuideLines/index.html",
+		"/F/YooBee/BrandGuideLines/css/scss/foundation.scss",
+		"/F/YooBee/BrandGuideLines/js/custom.js",
+		"/C/Documents and Settings/user/Desktop/Yoobee/BrandGuideLines/js/foundation/foundation.js",
+		"/C/Documents and Settings/user/Desktop/canvas.html",
+		"/C/Documents and Settings/user/Desktop/Yoobee/BrandGuideLines/css/scss/foundation/_settings.scss",
+		"/C/Documents and Settings/user/Desktop/Yoobee/BrandGuideLines/css/scss/custom.scss",
+		"/C/xampp/htdocs/project_movie_site/development/index.php",
+		"/C/Documents and Settings/user/Application Data/Sublime Text 2/Packages/Prefixr/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/user/Application Data/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Documents and Settings/user/Application Data/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/user/Desktop/json.html",
+		"/C/xampp/htdocs/project_movie_site/development/js/custom.js",
+		"/C/xampp/htdocs/project_movie_site/development/css/scss/custom.scss",
+		"/C/xampp/htdocs/project_movie_site/development/videos.php",
+		"/C/xampp/htdocs/project_movie_site/development/watch_now.php",
+		"/C/xampp/htdocs/project_movie_site/development/photoes.php",
+		"/C/xampp/htdocs/project_movie_site/development/includes/footer.php",
+		"/C/xampp/htdocs/project_movie_site/development/includes/session-table.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	<",
+			"click",
+			"slideshowAuto",
+			"slide",
+			"click",
+			"\">        ",
+			");\n",
+			"li.active",
+			".active",
+			"a.active",
+			".active",
+			"site-wrapper",
+			"hover",
+			">\n",
+			"btn",
+			"height",
+			"impress-enable",
+			"impress-support",
+			"100",
+			"php",
+			"will",
+			"php",
+			"img",
+			"\n",
+			"\">\n",
+			"php",
+			"BURGUNDY",
+			"php",
+			"BURGUNDY",
+			">\n",
+			"text",
+			"RON",
+			"php",
+			"BURGUNDY",
+			"ANCHORMAN",
+			"BURGUNDY",
+			"></",
+			"ipsum",
+			"div",
+			"ipsum",
+			"Document",
+			"></",
+			">\n",
+			"navbar",
+			"form",
+			"right-panel",
+			"left-panel",
+			"h4",
+			"h1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"php1",
+			"phil"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 3360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2174,
+								2174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/scss/custom.scss",
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							],
+							[
+								208,
+								208
+							],
+							[
+								311,
+								311
+							],
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "includes/staff.php",
+					"settings":
+					{
+						"buffer_size": 539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"qu",
+				"quotes.php"
+			],
+			[
+				"quo",
+				"quotes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,38 @@
+$light_red: #E53B51;
+$Dark_red:#CD3548;
+$White_text: #ffffff;
+
+.navbar-header > a {
+	margin-top: -13px;
+
+}
+
+ h2,h3 {
+	color:$light_red;	
+}
+
+div.row.text-center{
+	h2{
+	color:$White_text;	
+	}
+	color:$White_text;
+	height:150px;
+	background-color:$light_red;
+
+p{
+	font-size:20px;
+	}	
+}
+
+.footer {
+	color:$White_text;
+	h2,h3{
+	color:$White_text;	
+	}
+	.r1{
+	background-color:$Dark_red;
+	}
+	.r2{
+	background-color:$light_red;
+	}
+}
